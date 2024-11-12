@@ -1,0 +1,31 @@
+=>The design looks very good 👍
+=>The code quality is really great 💯
+
+Suggestions:
+
+App.jsx: Excellent Code! 👏
+
+ToDoTask.jsx: Excellent Code! 👏
+1.Remove unused code (line 14) - toDOItem
+
+DropDown.jsx:
+2.DropDown list is not displaying one after another
+3.Remove unused code (line 4)
+
+FromCheckButton.jsx:
+3.Remove unused code (line 3)
+
+IconsFa.jsx:
+4.Component name is not suitable, can use TodoActions
+
+App.css:
+5.Remove unused code (line 65)
+
+Remaining everything is awesome! 💯
+
+Repeated mistakes: 1, it's great improvement 👏
+
+Score: 2000
+Amazing Job!, Keep rocking 👏
+
+Overall Code Rating: 4.5/5
